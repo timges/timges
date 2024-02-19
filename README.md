@@ -48,7 +48,7 @@ Click [here](https://tim-gesemann.dev). Just do it 😬
 
 </div>
 
-<strong>GroupUI</strong> is the design system of the Volkswagen Group. We're using <strong>design tokens</strong> to provide ready to use `React`, `Angular` & `web-components` for internal & external projects.
+<strong>GroupUI</strong> is the design system of the Volkswagen Group. It utilizes <strong>design tokens</strong> to provide ready to use `React`, `Angular` & `web-components` for internal & external projects.
 
 ## 🗂️ Check out these projects!
 
