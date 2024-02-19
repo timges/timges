@@ -69,7 +69,7 @@ Click [here](https://tim-gesemann.dev). Just do it 😬
 
 </div>
 
-## 🏆 Congrats, you made it! You earned yourself a bad joke
+## 🏆 Congrats, you made it to the end! You earned yourself a bad joke
 
 <div align="center">
 
