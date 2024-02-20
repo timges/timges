@@ -34,7 +34,7 @@ const tim = {
     'gaming',
     'coding'
   ],
-  homepage: 'https://tim-gesemann.dev'
+  website: 'https://tim-gesemann.dev'
 }
 ```
 
