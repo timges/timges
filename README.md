@@ -59,7 +59,7 @@ Click [here](https://tim-gesemann.dev). Just do it 😬
 
 </div>
 
-## 📈 Stats & Facts (private contributions excluded 😭)
+## 📈 Stats & Facts. Whatever that means
 
 <div align="center">
 
