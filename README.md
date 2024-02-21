@@ -40,7 +40,7 @@ const tim = {
 
 Click [here](https://tim-gesemann.dev). Just do it 😬
 
-## 💻 I'm currently working on
+## 💻 My current project
 
 <div align="center">
 
