@@ -1,6 +1,6 @@
 # Hey! 👋🏼 I'm Tim Gesemann
 
-I'm a fullstack developer, with a passion for frontend and infrastructural development. I'm currently located in Hanover, Germany working for the Volkswagen Group.
+I'm a fullstack developer, with a passion for frontend, design systems and infrastructure development. I'm currently located in Hanover, Germany working for the Volkswagen Group.
 
 <a href="https://www.linkedin.com/in/tim-gesemann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_nnameseg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
