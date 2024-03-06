@@ -14,7 +14,7 @@ I'm a fullstack developer, with a passion for frontend, design systems and infra
 const tim = {
   profession: 'developer',
   specialization: 'fullstack',
-  favoriteProgrammingLanguages: ['typescript', 'html', 'css'],
+  favoriteProgrammingLanguages: ['javascript', 'html', 'css', 'kotlin'],
   strengths: ['frontend', 'infrastructure', 'dev-ops'],
   favoriteTechnologies: [
     'React',
