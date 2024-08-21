@@ -1,78 +1,44 @@
-# Hey! 👋🏼 I'm Tim Gesemann
+# Hey there, I'm Tim! 👋
 
-I'm a fullstack developer, with a passion for frontend, design systems and infrastructure development. I'm currently located in Hanover, Germany working for the Volkswagen Group.
+<div style="text-align: center">
 
-<a href="https://www.linkedin.com/in/tim-gesemann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_nnameseg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/geezy_tim" target="_blank"><img src="https://img.shields.io/twitter/follow/geezy_tim?logo=twitter&style=for-the-badge" alt="dhanushkadev" height="20px"/>
-</a>
+  ***I turn coffee ☕ into code 🧑‍💻***
 
-## 👨🏻 About me
-
-```typescript
-
-const tim = {
-  profession: 'developer',
-  specialization: 'fullstack',
-  favoriteProgrammingLanguages: ['javascript', 'html', 'css', 'kotlin'],
-  strengths: ['frontend', 'infrastructure', 'dev-ops'],
-  favoriteTechnologies: [
-    'React',
-    'SvelteKit',
-    'AWS CDK',
-    'Github Actions'
-    'MongoDB',
-    'PostgreSQL'
-  ],
-  currentEmployer: 'Volkswagen Group',
-  currentLocation: 'Hanover, Germany',
-  age: 27,
-  hobbies: [
-    'hanging out with friends',
-    'hiking',
-    'handball',
-    'gaming',
-    'coding'
-  ],
-  website: 'https://tim-gesemann.dev'
-}
-```
-
-Click [here](https://tim-gesemann.dev). Just do it 😬
-
-## 💻 My current project
-
-<div align="center">
-
-<a href="https://www.red-dot.org/de/project/groupui-41315"><img src="./assets/groupui-logo.png" alt="groupui-logo" width=200></a>
-
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl6aDU0OW8zN3NrazVpc2NlOTltcnNwcGIzenJlbDB2ZDJva3h5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.webp" width="400">
 </div>
 
-<strong>GroupUI</strong> is the design system of the Volkswagen Group. It utilizes <strong>design tokens</strong> to provide ready to use `React`, `Angular` & `web-components` for internal & external projects.
+Welcome to my GitHub! I'm a **Full Stack Engineer** with a deep love for creating sleek, accessible, and high-performance web applications. I have a thing for design systems & tokens, cutting-edge web tech, and making the web a better place for everyone.
 
-## 🗂️ Check out these projects!
+When I'm not coding, you can catch me on a skateboard 🛹, surfing 🌊, or eating pizza at the italian place around the corner 🍕
 
-<div align="center">
+### 🌟 What I Do
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=timges&repo=serverless-twitter-bot)](https://github.com/timges/serverless-twitter-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=timges&repo=personal-homepage)](https://github.com/timges/personal-homepage)
+- **Code Crafting**: I turn ideas into reality with JavaScript, TypeScript, and React. I also love playing around with SvelteKit lately.
+- **Design Systems & Tokens**: Creating reusable, scalable components with consistent design tokens is my jam—because a unified visual language makes the web a more beautiful and accessible place.
+- **Accessibility Advocate**: I make sure everyone, no matter their abilities, has access to the web.
 
-</div>
+### 🔧 Tools I Love
 
-## 📈 Stats & Facts. Whatever that means
+- **Languages**: JavaScript, TypeScript, HTML/CSS
+- **Frameworks**: React, Next.js, SvelteKit
+- **Design**: Figma, Storybook
+- **Cloud**: AWS
+- **CI/CD**: GitHub Actions
 
-<div align="center">
+### 💻 Cool Projects
 
-<img src="https://myreadme.vercel.app/api/embed/timges?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+#### [AI Nutrition Extractor](https://github.com/timges/ai-nutrition-extractor)
 
-<img src="https://github-profile-trophy.vercel.app/?username=timges&theme=juicyfresh&no-bg=true" />
+A web app that uses AI to pull out nutrition facts from recipes. Because who doesn't love knowing what they're eating?
 
-</div>
+#### [My Personal Website](https://tim-gesemann.dev)
 
-## 🏆 Congrats, you made it to the end! You earned yourself a bad joke
+A little corner of the web where I showcase what I’m working on. Built with SvelteKit, it’s fast and sleek—just like my code! 💻✨
 
-<div align="center">
+### 🌐 Let's Connect
 
-<a href="https://readme-jokes.vercel.app"><img width="100%" align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+- **Personal Site**: [tim-gesemann.dev](https://tim-gesemann.dev)
+- **GitHub**: [timges](https://github.com/timges)
+- **LinkedIn**: [tim-gesemann](https://linkedin.com/in/tim-gesemann)
 
-</div>
+Feel free to check out my repos, star something if you like it ⭐, or just reach out to chat about coding, design, or Formula 1!
