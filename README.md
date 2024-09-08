@@ -24,6 +24,8 @@ When I'm not coding, you can catch me on a skateboard 🛹, surfing 🌊, or eat
 - **Design**: Figma, Storybook
 - **Cloud**: AWS
 - **CI/CD**: GitHub Actions, AWS CodePipeline
+- **IDE**: NeoVim, VSCode
+- **Productivity**: Notion, Obsidian, Raycast
 
 ## 💻 Check these out
 
